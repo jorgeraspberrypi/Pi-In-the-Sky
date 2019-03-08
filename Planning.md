@@ -9,4 +9,4 @@ This is the link for our sketch of our pi rocket: https://github.com/jorgeraspbe
 ..* 2 liter bottles 
 ..* acrylic 
 ..* Raspberry pi 
-..*  accelerometer 
+..* accelerometer 
