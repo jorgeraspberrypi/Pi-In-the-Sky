@@ -15,7 +15,10 @@ This is the link for our sketch of our pi rocket: https://github.com/jorgeraspbe
 5. accelerometer 
 
 # Timeline
-..*3/11-3/22: Desing the rocket in solidworks
-..*3/25-4/17: Finish the coding for our project
-..*4/18-4/26: Print and put together the rocket and the launcher
-..*4/29-5/10: Test and fix any last minute errors
+3/11-3/22: Desing the rocket in solidworks
+
+3/25-4/17: Finish the coding for our project
+
+4/18-4/26: Print and put together the rocket and the launcher
+
+4/29-5/10: Test and fix any last minute errors
