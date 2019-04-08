@@ -23,4 +23,4 @@ This is the link for our sketch of our pi rocket: https://github.com/jorgeraspbe
 
 4/29-5/10: Test and fix any last minute errors
 
-
+5/13-5/17: Cushion week if any one part takes longer than expected
