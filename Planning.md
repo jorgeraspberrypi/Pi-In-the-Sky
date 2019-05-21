@@ -8,11 +8,12 @@ For our project, we want to launch our raspberry pi into the sky using a stomp r
 
 This is the link for our rough sketch of our pi stomp rocket: <https://github.com/jorgeraspberrypi/Pi-In-the-Sky/blob/master/PIS.png?raw=true>
 # Materials
-1. PVC pipes (amount unknown at the moment)
-2. 2 liter bottles 
+1. PVC pipes (2 pipes and a connector)
+2. 2 liter bottle 
 3. acrylic 
 4. Raspberry pi 
 5. accelerometer 
+6. battery
 
 # Timeline
 3/11-3/22: Design the rocket in solidworks
