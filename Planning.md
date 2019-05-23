@@ -6,7 +6,7 @@ We need to put our pi in th sky and have it measure the acceleration of the time
 This is where documentation of Pi in the Sky preoject will go.
 For our project, we want to launch our raspberry pi into the sky using a stomp rocket. We are going to make the stomp rocket out of PVC pipes and 2 liter bottles. Then for our actual pi, we are going to be building a rocket. 
 
-This is the link for our rough sketch of our pi stomp rocket: ![Picture](planning.png) ![Picture](rocket.ong) ![Picutre](PIS.png)
+This is the link for our rough sketch of our pi stomp rocket: ![Picture](planning.png) ![Picture](rocket.png) ![Picutre](PIS.png)
 
 # Materials
 1. PVC pipes (2 pipes and a connector)
