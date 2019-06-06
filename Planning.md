@@ -1,4 +1,4 @@
-#Pi in the Sky 
+# Pi in the Sky 
 
 The problem:
 We need to put our pi in th sky and have it measure the acceleration of the time it is in the air. When it has reached its maximum hieght, it should make a noise.
