@@ -17,12 +17,12 @@ This is the link for our rough sketch of our pi stomp rocket: ![Picture](plannin
 6. battery
 
 # Timeline
-3/11-3/22: Design the rocket in solidworks
+3/25-4/5: Design the rocket in solidworks
 
-3/25-4/17: Finish the coding for our project
+4/8-5/1: Finish the coding for our project
 
-4/18-4/26: Print and put together the rocket and the launcher
+5/2-5/10: Print and put together the rocket and the launcher
 
-4/29-5/10: Test and fix any last minute errors
+5/13-5/24: Test and fix any last minute errors
 
-5/13-5/17: Cushion week if any one part takes longer than expected
+5/27-5/31: Cushion week if any one part takes longer than expected
