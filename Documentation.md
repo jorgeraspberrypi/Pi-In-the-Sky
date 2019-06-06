@@ -1,4 +1,4 @@
-# Pi-In-the-Sky
+# Gabby and Kaylee's Pi-In-the-Sky
 # Code
 
 Code can be found here: https://github.com/jorgeraspberrypi/Engineering_4_Notebook/blob/master/Python/PIintheSky.py
